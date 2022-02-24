@@ -1,6 +1,6 @@
 {
   "name": "postcss-responsive-type",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "PostCSS plugin that adds responsive magic to font-size",
   "keywords": [
     "postcss",
@@ -21,6 +21,7 @@
       "web": "http://simpla.io"
     }
   ],
+  "contributors": ["Luca Morelli <luca.morelli@ovalmoney.com>"],
   "bugs": {
     "url": "https://github.com/seaneking/postcss-responsive-type/issues"
   },

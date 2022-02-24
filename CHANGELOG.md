@@ -4,9 +4,16 @@
 
 [Full Changelog](https://github.com/seaneking/postcss-responsive-type/compare/v1.0.0...HEAD)
 
-**Closed issues:**
+## v2.0.0
 
-- Publish v1.0.0 on npm registry [\#29](https://github.com/seaneking/postcss-responsive-type/issues/29)
+- Publish v1.0.0 on npm registry
+- Add CHANGELOG.md
+- Edit README.md
+- Edit code style form ES5 to ES6
+
+BREAKING CHANGES:
+
+- Bump postcss to ^8.4.6
 
 ## [v1.0.0](https://github.com/seaneking/postcss-responsive-type/tree/v1.0.0) (2017-07-07)
 [Full Changelog](https://github.com/seaneking/postcss-responsive-type/compare/v0.6.0...v1.0.0)
